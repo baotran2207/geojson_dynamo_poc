@@ -1,0 +1,6 @@
+geojson
+pydantic
+PyJWT
+boto3
+botocore
+pygeohash

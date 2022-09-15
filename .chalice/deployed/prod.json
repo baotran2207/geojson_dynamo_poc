@@ -1,0 +1,34 @@
+{
+  "resources": [
+    {
+      "name": "api_handler_role",
+      "resource_type": "iam_role",
+      "role_arn": "arn:aws:iam::730353997858:role/geo_poc-prod-api_handler",
+      "role_name": "geo_poc-prod-api_handler"
+    },
+    {
+      "name": "api_handler",
+      "resource_type": "lambda_function",
+      "lambda_arn": "arn:aws:lambda:ap-southeast-1:730353997858:function:geo_poc-prod"
+    },
+    {
+      "name": "jwt_auth_role",
+      "resource_type": "iam_role",
+      "role_arn": "arn:aws:iam::730353997858:role/geo_poc-prod-jwt_auth",
+      "role_name": "geo_poc-prod-jwt_auth"
+    },
+    {
+      "name": "jwt_auth",
+      "resource_type": "lambda_function",
+      "lambda_arn": "arn:aws:lambda:ap-southeast-1:730353997858:function:geo_poc-prod-jwt_auth"
+    },
+    {
+      "name": "rest_api",
+      "resource_type": "rest_api",
+      "rest_api_id": "7tbwx0uuee",
+      "rest_api_url": "https://7tbwx0uuee.execute-api.ap-southeast-1.amazonaws.com/api/"
+    }
+  ],
+  "schema_version": "2.0",
+  "backend": "api"
+}

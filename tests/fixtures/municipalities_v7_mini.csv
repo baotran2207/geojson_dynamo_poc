@@ -1,0 +1,100 @@
+"","year","municipality","province","population","latitude","longitude","surface_km2","surface_land_km2","surface_water_km2","university","flag_color1","flag_color2","flag_color3","flag_color4","shield_symbol_1","shield_symbol_2","shield_symbol_3","shieldholder_1","shieldholder_2","shield_crown","asylum_migrants","avg_household_income","avg_woz","avg_ww_ratio","murders"
+"1",2018,"Aa en Hunze","Drenthe",25243,53.010485,6.749528,278.9,276.4,2.5,0,"green","yellow",NA,NA,"crown","cross",NA,"deer","deer","crown",NA,NA,NA,NA,NA
+"2",2018,"Aalburg","Noord-Brabant",12859,51.751294,5.057085,53.2,50.4,2.8,0,"black","red","yellow",NA,"wheel","lion",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"3",2018,"Aalsmeer","Noord-Holland",30792,52.262164,4.761922,32.3,20.4,11.9,0,"red","green","black",NA,"lion","eel",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4",2018,"Aalten","Gelderland",27030,51.926667,6.580678,97,96.5,0.5,0,"white","green",NA,NA,"tree","sword",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"5",2018,"Achtkarspelen","Friesland",28002,53.210357,6.153565,104,102.4,1.6,0,"white","red","green","blue","church",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"6",2018,"Alblasserdam","Zuid-Holland",19822,51.870337,4.670202,10.1,8.8,1.3,0,"yellow","red",NA,NA,"lion",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",2018,"Albrandswaard","Zuid-Holland",25044,51.858068,4.423187,23.8,21.9,1.9,0,"red","yellow","white","blue","shield",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"8",2018,"Alkmaar","Noord-Holland",94906,52.632842,4.755037,31.2,29.3,1.9,0,"red","white",NA,NA,"stronghold",NA,NA,"lion","lion","laurel",NA,NA,NA,NA,NA
+"9",2018,"Almelo","Overijssel",72435,52.367027,6.668492,69.4,67.4,2,0,"blue","white",NA,NA,"diamond",NA,NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"10",2018,"Almere","Flevoland",196156,52.350785,5.264702,248.8,129.6,119.2,0,"red","yellow","blue","white","cog","lily",NA,"seahorse","seahorse","crown",NA,NA,NA,NA,NA
+"11",2018,"Alphen aan den Rijn","Zuid-Holland",106809,52.111222,4.647251,132.5,126.6,5.9,0,"blue","white","yellow",NA,"star","stronghold",NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"12",2018,"Alphen-Chaam","Noord-Brabant",9712,51.509135,4.861589,93.5,93,0.5,0,"green","white",NA,NA,"mountain","comb",NA,"bird","bird","crown",NA,NA,NA,NA,NA
+"13",2018,"Ameland","Friesland",3565,53.440564,5.658766,268.5,58.8,209.7,0,"blue","yellow","black","white","moon",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"14",2018,"Amersfoort","Utrecht",150943,52.156111,5.387827,63.9,62.9,1,0,"red","white",NA,NA,"cross",NA,NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"15",2018,"Amstelveen","Noord-Holland",85135,52.311421,4.870087,44.1,41.5,2.6,0,"red","black","white",NA,"cross",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",2018,"Amsterdam","Noord-Holland",853312,52.370216,4.895168,219.3,165.8,53.6,2,"red","white","black",NA,"cross",NA,NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"17",2018,"Apeldoorn","Gelderland",157535,52.211157,5.969923,341.2,339.9,1.2,0,"red","yellow","white","green","eagle","key",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18",2018,"Appingedam","Groningen",12049,53.320678,6.854422,24.6,23.8,0.8,0,"yellow","blue","green","red","pelican",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"19",2018,"Arnhem","Gelderland",150817,51.985103,5.89873,101.5,98,3.6,0,"blue","white",NA,NA,"eagle",NA,NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"20",2018,"Assen","Drenthe",67209,52.992753,6.564228,83.5,81.9,1.5,0,"blue","white",NA,NA,"maria","jesus",NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"21",2018,"Asten","Noord-Brabant",16479,51.402994,5.744078,71.3,70.2,1.1,0,"white","red","yellow","black","cross",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"22",2018,"Baarle-Nassau","Noord-Brabant",6617,51.445137,4.929523,76.2,76.2,0,0,"blue","white","red","yellow","haystack",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23",2018,"Baarn","Utrecht",24344,52.213182,5.28641,33,32.5,0.5,0,"blue","yellow",NA,NA,"bishop",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24",2018,"Barendrecht","Zuid-Holland",47375,51.851509,4.548581,21.7,19.8,1.9,0,"red","white","yellow","green","lion",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25",2018,"Barneveld","Gelderland",54176,52.162147,5.65536,176.7,176,0.7,0,"blue","yellow","red",NA,"butterfly","plant","sun",NA,NA,NA,NA,NA,NA,NA,NA
+"26",2018,"Bedum","Groningen",10475,53.301675,6.599829,45,44.6,0.4,0,"yellow","white","blue",NA,"spade","cross","book",NA,NA,"crown",NA,NA,NA,NA,NA
+"27",2018,"Beek","Limburg",16268,50.939316,5.795647,21,21,0,0,"white","blue",NA,NA,"lion","cross","snake",NA,NA,"crown",NA,NA,NA,NA,NA
+"28",2018,"Beemster","Noord-Holland",8919,52.547559,4.913332,72.1,70.6,1.5,0,"red","green","yellow","blue","cow","sun",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29",2018,"Beesel","Limburg",13593,51.269698,6.046834,29.2,28.1,1,0,"yellow","blue","red","green","dragon",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30",2018,"Berg en Dal","Gelderland",18956,51.818121,5.920082,44.1,44.1,0,0,"white","red","black","yellow","lion","rose",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"31",2018,"Bergeijk","Noord-Brabant",18250,51.319716,5.3575,101.7,101.2,0.6,0,"yellow","blue","white","red","lion","lily",NA,"saint peter","oak","crown",NA,NA,NA,NA,NA
+"32",2018,"Bergen (L.)","Limburg",13230,51.599866,6.032998,108.5,103.8,4.7,0,"yellow","blue","red",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33",2018,"Bergen (NH.)","Noord-Holland",30075,52.674937,4.706395,119.5,97.1,22.4,0,"white","blue","orange",NA,"martlet",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"34",2018,"Bergen op Zoom","Noord-Brabant",66423,51.494576,4.287162,93.1,80,13.1,0,"red","white","green","yellow","cross","mountain",NA,"savage","savage","crown",NA,NA,NA,NA,NA
+"35",2018,"Berkelland","Gelderland",44650,52.115157,6.561501,260.5,258.7,1.8,0,"blue","brown",NA,NA,"greyhound",NA,NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"36",2018,"Bernheze","Noord-Brabant",29703,51.660272,5.501401,90.4,89.8,0.7,0,"red","white",NA,NA,"reedmace",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"37",2018,"Best","Noord-Brabant",28594,51.507764,5.397848,35.1,34.3,0.8,0,"yellow","black","red",NA,"saint odulphus",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"38",2018,"Beuningen","Gelderland",25254,51.859724,5.769107,47.1,43.7,3.4,0,"white","black","blue","red","eagle","stronghold","lion",NA,NA,"crown",NA,NA,NA,NA,NA
+"39",2018,"Beverwijk","Noord-Holland",40052,52.486984,4.657447,20.1,18.3,1.8,0,"red","white",NA,NA,"lion","lily",NA,"angel","angel","mantle and pavilion",NA,NA,NA,NA,NA
+"40",2018,"Binnenmaas","Zuid-Holland",28682,51.796188,4.548157,75.6,69.3,6.3,0,"yellow","red","black",NA,"lily","shell","star",NA,NA,"crown",NA,NA,NA,NA,NA
+"41",2018,"Bladel","Noord-Brabant",19825,51.362963,5.213639,75.6,75.4,0.3,0,"yellow","black","red","white","key",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"42",2018,"Blaricum","Noord-Holland",9112,52.272669,5.24808,15.6,11.1,4.5,0,"blue","green","white",NA,"cornflower",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43",2018,"Bloemendaal","Noord-Holland",22077,52.404947,4.620185,45.2,39.7,5.5,0,"white","black","green",NA,"leaf",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"44",2018,"Bodegraven-Reeuwijk","Zuid-Holland",32986,52.082326,4.746084,88.6,75.7,13,0,"yellow","blue",NA,NA,"spade","hat","deer",NA,NA,"crown",NA,NA,NA,NA,NA
+"45",2018,"Boekel","Noord-Brabant",10089,51.602879,5.674316,34.5,34.5,0,0,"blue","yellow",NA,NA,"church",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46",2018,"Borger-Odoorn","Drenthe",25633,52.889372,6.888404,277.9,275.3,2.6,0,"yellow","black",NA,NA,"spade","dolmen",NA,"horse","horse","crown",NA,NA,NA,NA,NA
+"47",2018,"Borne","Overijssel",21901,52.300237,6.753726,26.2,26,0.2,0,"blue","yellow",NA,NA,"beehive","bee",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"48",2018,"Borsele","Zeeland",22592,51.447691,3.803318,194.5,141.7,52.8,0,"white","blue","red",NA,NA,NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"49",2018,"Boxmeer","Noord-Brabant",28135,51.645269,5.956666,113.8,111.5,2.3,0,"red","yellow",NA,NA,"goat",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"50",2018,"Boxtel","Noord-Brabant",30325,51.601437,5.312177,64.9,63.8,1.1,0,"red","white","yellow",NA,"duck",NA,NA,NA,NA,"saint peter",NA,NA,NA,NA,NA
+"51",2018,"Breda","Noord-Brabant",179999,51.571915,4.768323,128.7,126,2.6,0,"red","white",NA,NA,"cross",NA,NA,"lion","lion","angel",NA,NA,NA,NA,NA
+"52",2018,"Brielle","Zuid-Holland",16306,51.902582,4.163685,31.1,27.6,3.6,0,"white","red",NA,NA,NA,NA,NA,NA,"centaur","crown",NA,NA,NA,NA,NA
+"53",2018,"Bronckhorst","Gelderland",36941,52.075595,6.180892,286.4,283.6,2.9,0,"white","purple","pink",NA,"lion","crown",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"54",2018,"Brummen","Gelderland",21169,52.090167,6.158015,85,84,1,0,"blue","orange","green","red","lion","branch",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55",2018,"Brunssum","Limburg",28914,50.948896,5.972166,17.3,17.2,0.1,0,"red","blue",NA,NA,"cross","snake","pope",NA,NA,NA,NA,NA,NA,NA,NA
+"56",2018,"Bunnik","Utrecht",14619,52.066528,5.200776,37.6,37,0.6,0,"green","white",NA,NA,"cock","ship","horse","eagle","lion","crown",NA,NA,NA,NA,NA
+"57",2018,"Bunschoten","Utrecht",20547,52.240642,5.36707,34.8,30.4,4.4,0,"blue","yellow",NA,NA,"cross","eagle",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"58",2018,"Buren","Gelderland",25995,51.910389,5.334058,142.9,134.3,8.7,0,"red","white",NA,NA,NA,NA,NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"59",2018,"Capelle aan den IJssel","Zuid-Holland",66177,51.938073,4.591778,15.4,14.3,1.2,0,"blue","white",NA,NA,"fish",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60",2018,"Castricum","Noord-Holland",34244,52.545259,4.672735,60.4,49.7,10.7,0,"blue","yellow","green","white","lion","acorn","plant",NA,NA,"crown",NA,NA,NA,NA,NA
+"61",2018,"Coevorden","Drenthe",35771,52.661357,6.741062,299.7,296.5,3.2,0,"red","blue","yellow",NA,"eagle","staff","lance","savage","savage","crown",NA,NA,NA,NA,NA
+"62",2018,"Cranendonck","Noord-Brabant",20388,51.286922,5.596695,78.1,76.5,1.6,0,"red","white",NA,NA,"horn",NA,NA,NA,NA,"eagle",NA,NA,NA,NA,NA
+"63",2018,"Cromstrijen","Zuid-Holland",12748,51.736089,4.460849,70.3,54.4,16,0,"blue","white",NA,NA,"cross","wave",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"64",2018,"Cuijk","Noord-Brabant",24780,51.728927,5.879209,57.1,51.3,5.8,0,"yellow","red",NA,NA,"martlet",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"65",2018,"Culemborg","Gelderland",27579,51.956108,5.240045,31.1,29.4,1.7,0,"yellow","red",NA,NA,"pillar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66",2018,"Dalfsen","Overijssel",27655,52.507755,6.259667,166.5,165.1,1.4,0,"blue","white",NA,NA,"scythe",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"67",2018,"Dantumadiel","Friesland",19035,53.272981,5.98593,87.5,85.4,2.1,0,"white","red","yellow","green","fox","wave",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"68",2018,"De Bilt","Utrecht",42013,52.109272,5.180968,67.1,66.3,0.8,0,"yellow","blue","black","white","grate",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"69",2018,"De Fryske Marren","Friesland",51223,52.948003,5.791388,559.9,361.8,198.1,0,"blue","white","yellow","red","hare","orb and cross",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"70",2018,"De Marne","Groningen",10205,53.360934,6.380521,240.3,168.2,72.1,0,"blue","white","yellow",NA,"key","wave",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"71",2018,"De Ronde Venen","Utrecht",42648,52.20668,4.886773,117,100.8,16.2,0,NA,NA,NA,NA,"agnus dei","key","snake",NA,NA,"crown",NA,NA,NA,NA,NA
+"72",2018,"De Wolden","Drenthe",23592,52.681979,6.366039,226.4,224.8,1.6,0,"yellow","green","black","white","forest",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"73",2018,"Delft","Zuid-Holland",101493,52.011577,4.357068,24.1,22.8,1.2,1,"white","black",NA,NA,NA,NA,NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"74",2018,"Delfzijl","Groningen",25686,53.331027,6.92446,227.5,133.1,94.4,0,"yellow","blue","red","black","harpy","church","wave","lion","lion","crown",NA,NA,NA,NA,NA
+"75",2018,"Den Helder","Noord-Holland",56553,52.956281,4.760797,178.8,42.3,133.6,0,"yellow","red","black",NA,NA,NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"76",2018,"Deurne","Noord-Brabant",31669,51.46422,5.795068,118.4,117,1.3,0,"black","red","yellow",NA,"cross",NA,NA,NA,NA,"saint willibrord",NA,NA,NA,NA,NA
+"77",2018,"Deventer","Overijssel",98327,52.266075,6.155217,134.3,131.2,3.1,0,"red","white","black",NA,"eagle",NA,NA,"knight","knight","crown",NA,NA,NA,NA,NA
+"78",2018,"Diemen","Noord-Holland",25980,52.338993,4.959189,14,12,2,0,"blue","white","black",NA,"duck",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"79",2018,"Dinkelland","Overijssel",25937,52.407617,6.89726,176.8,175.8,1.1,0,"blue","white","green",NA,"lion","cross",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"80",2018,"Doesburg","Gelderland",11449,52.014288,6.139782,13,11.6,1.4,0,"white","red","yellow",NA,"stronghold","moon",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"81",2018,"Doetinchem","Gelderland",56350,51.964699,6.293774,79.7,79.1,0.6,0,"white","blue","yellow",NA,"lion","flower","crown",NA,NA,"crown",NA,NA,NA,NA,NA
+"82",2018,"Dongen","Noord-Brabant",25389,51.62871,4.938239,29.7,29.3,0.4,0,"red","white",NA,NA,NA,NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"83",2018,"Dongeradeel","Friesland",24183,53.324884,5.996639,266.9,167.2,99.7,0,"red","white","blue","yellow","star","moon",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"84",2018,"Dordrecht","Zuid-Holland",118716,51.813298,4.690093,99.5,79,20.5,0,"red","white",NA,NA,NA,NA,NA,"griffin","griffin","crown",NA,NA,NA,NA,NA
+"85",2018,"Drechterland","Noord-Holland",19257,52.653307,5.183589,80.7,59.1,21.6,0,"white","yellow","green",NA,"sword","flower",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"86",2018,"Drimmelen","Noord-Brabant",26705,51.708552,4.80349,119.4,96.1,23.3,0,"white","green","blue",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87",2018,"Dronten","Flevoland",40451,52.534682,5.721809,423.9,333.9,90,0,"green","white",NA,NA,"lily","ring","pedestal","horse","horse","crown",NA,NA,NA,NA,NA
+"88",2018,"Druten","Gelderland",18206,51.894084,5.594272,42.5,37.7,4.8,0,"white","green","black","yellow","lion",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"89",2018,"Duiven","Gelderland",25580,51.947458,6.01795,35.2,33.9,1.3,0,"blue","white","yellow","red","dove","shield","carbuncle",NA,NA,NA,NA,NA,NA,NA,NA
+"90",2018,"Echt-Susteren","Limburg",31940,51.093224,5.907364,104.5,103.1,1.4,0,"red","blue","white","yellow","cross","branch",NA,"woman","woman","crown",NA,NA,NA,NA,NA
+"91",2018,"Edam-Volendam","Noord-Holland",28934,52.504541,5.045998,24.8,16.3,8.5,0,"white","purple","red","green","bull","star",NA,NA,NA,"bear",NA,NA,NA,NA,NA
+"92",2018,"Ede","Gelderland",110657,52.040168,5.664859,318.6,318.3,0.4,0,"yellow","blue",NA,NA,"dutch maiden","liberty hat","bible",NA,NA,NA,NA,NA,NA,NA,NA
+"93",2018,"Eemnes","Utrecht",8773,52.253746,5.261275,33.7,31.1,2.6,0,"red","white","yellow",NA,"bisshop",NA,NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"94",2018,"Eemsmond","Groningen",15910,53.400344,6.64841,543.4,189.8,353.5,0,"green","yellow","blue","white","mermaid","lily","cross",NA,NA,"crown",NA,NA,NA,NA,NA
+"95",2018,"Eersel","Noord-Brabant",18201,51.357808,5.315912,83.3,82.5,0.9,0,"black","yellow","white","red","stronghold","shield","lion",NA,NA,"crown",NA,NA,NA,NA,NA
+"96",2018,"Eijsden-Margraten","Limburg",24980,50.81996,5.821457,78.3,77.4,0.9,0,"black","grey","red","yellow","eagle","cross",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"97",2018,"Eindhoven","Noord-Brabant",220782,51.441642,5.469722,88.9,87.7,1.2,1,"red","white",NA,NA,"lion","horn",NA,NA,NA,"crown",NA,NA,NA,NA,NA
+"98",2018,"Elburg","Gelderland",22658,52.449263,5.834519,65.9,63.8,2.1,0,"blue","white","red","yellow","gatehouse","branch",NA,"lion","lion","crown",NA,NA,NA,NA,NA
+"99",2018,"Emmen","Drenthe",108003,52.713237,6.955777,346.3,336.4,9.9,0,"white","black","green","yellow","plow","peat cutter",NA,"horse","horse","crown",NA,NA,NA,NA,NA

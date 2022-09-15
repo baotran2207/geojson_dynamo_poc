@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "app_name": "geo_poc",
+  "stages": {
+    "environment_variables": {
+      "DYNAMO_USER_TABLE_NAME": "geo_poc_user",
+      "DYNAMO_FEATURES_TABLE_NAME": "geo_poc_feature"
+    },
+    "dev": {
+      "api_gateway_stage": "dev"
+    },
+    "prod": {
+      "api_gateway_stage": "api",
+      "autogen_policy": false
+    }
+  }
+}

@@ -1,0 +1,4 @@
+chalice==1.27.0
+pytest
+requests
+httpie
