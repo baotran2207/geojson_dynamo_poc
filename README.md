@@ -3,7 +3,7 @@
 ## I. Geo Poc
 Poc for geojson  Rest api
 Alive example is deployed at :
-    `http GET https://7tbwx0uuee.execute-api.ap-southeast-1.amazonaws.com/api/features?page=1`
+    [](https://7tbwx0uuee.execute-api.ap-southeast-1.amazonaws.com/api/features?page=1).
 ## II. Delevelopment
 1. Installation
 - create a virtualenv with version `3.9.12` . Note: This is dev/test on python `3.9.12`, maybe lower version work (?) . Version `3.10+` does not work yet
@@ -67,7 +67,9 @@ Alive example is deployed at :
     - line 10th , replace the value with the value in III.3
 
 ### Note/Limitation:
+- Dynamodb scan issue : if we scan the the huge table without query ,it may lead to capacity issue
 - We only post the mini version of the csv  . For full 7000 records,  the post is ok but the route get list `api/features?page=1` may have performance issue due to limitation of dynamodb.scan
-- Dynamodb only support next_page_token type, not number_page_token -> we scan all -> too many records may leads to capacity-problem
 - geohash : there is no small enough libary for geohash , so i can only hash `Point` -> only accept `Point`  . Any recommend how to hash `polygon` ?
 - route `/features_with_token` is just an example of token auth. For convinence , other routes are public (can be added authorized later)
+
+- Dynamodb only support next_page_token type, not number_page_token -> we scan all -> too many records may leads to capacity-problem
