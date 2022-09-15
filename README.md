@@ -67,9 +67,11 @@ Alive example is deployed at :
     - line 10th , replace the value with the value in III.3
 
 ### Note/Limitation:
-- Dynamodb scan issue : if we scan the the huge table without query ,it may lead to capacity issue
-- We only post the mini version of the csv  . For full 7000 records,  the post is ok but the route get list `api/features?page=1` may have performance issue due to limitation of dynamodb.scan
-- geohash : there is no small enough libary for geohash , so i can only hash `Point` -> only accept `Point`  . Any recommend how to hash `polygon` ?
-- route `/features_with_token` is just an example of token auth. For convinence , other routes are public (can be added authorized later)
+- Geohash id : there is no small enough libary for geohash , so i can only hash `Point` -> only accept `Point`  . Any recommend how to hash `polygon` ?
+- Dynamodb scan issue : if we scan the the huge table without query ,it may lead to capacity issue in dynamodb.
+    - We only post the mini version of the csv 100 records .
+    - Once all api work well then we can try to post all 7000.
+    - Dynamodb only support next_page_token type, not number_page_token -> we scan all -> too many records may leads to capacity-problem
 
+- route `/features_with_token` is just an example of token auth. For convinence , other routes are public (can be added authorized later)
 - Dynamodb only support next_page_token type, not number_page_token -> we scan all -> too many records may leads to capacity-problem
