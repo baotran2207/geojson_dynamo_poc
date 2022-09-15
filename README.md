@@ -3,7 +3,7 @@
 ## I. Geo Poc
 Poc for geojson  Rest api
 Alive example is deployed at :
-    [](https://7tbwx0uuee.execute-api.ap-southeast-1.amazonaws.com/api/features?page=1).
+    [https://7tbwx0uuee.execute-api.ap-southeast-1.amazonaws.com/api/features?page=1](https://7tbwx0uuee.execute-api.ap-southeast-1.amazonaws.com/api/features?page=1).
 ## II. Delevelopment
 1. Installation
 - create a virtualenv with version `3.9.12` . Note: This is dev/test on python `3.9.12`, maybe lower version work (?) . Version `3.10+` does not work yet
